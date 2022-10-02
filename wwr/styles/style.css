@@ -68,6 +68,7 @@ main section {
 footer {
     background-color: #514c46;
     color: #edf6f9;
+    text-align: left;
 }
 footer p {
     font-size: 1.2em;
